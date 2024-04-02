@@ -1,0 +1,22 @@
+body {
+    background: #faebd5!important;
+    font-family: "Russo One", sans-serif !important;
+    font-optical-sizing: auto;
+    font-weight: 400px;
+    font-style: normal;
+}
+
+img{
+    border-radius: 50%;
+    margin: 20px;
+    height: 200px;
+}
+h1{
+    padding-top: 20px;
+}
+h3{
+    padding: 20px;
+}
+.bi{
+    margin-right: 10px;
+}
